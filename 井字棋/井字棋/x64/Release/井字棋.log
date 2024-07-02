@@ -1,0 +1,11 @@
+﻿  井字棋.cpp
+C:\Users\少年心\source\repos\井字棋\井字棋\井字棋.cpp(42,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\少年心\source\repos\井字棋\井字棋\井字棋.cpp(42,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\少年心\source\repos\井字棋\井字棋\井字棋.cpp(43,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\少年心\source\repos\井字棋\井字棋\井字棋.cpp(43,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  13 of 14 functions (92.9%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  井字棋.vcxproj -> C:\Users\少年心\source\repos\井字棋\x64\Release\井字棋.exe

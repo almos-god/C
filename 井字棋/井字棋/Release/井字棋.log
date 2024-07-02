@@ -1,0 +1,2 @@
+﻿MSVCRT.lib(exe_winmain.obj) : error LNK2001: 无法解析的外部符号 _WinMain@16
+C:\Users\少年心\source\repos\井字棋\Release\井字棋.exe : fatal error LNK1120: 1 个无法解析的外部命令
